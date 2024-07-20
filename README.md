@@ -1,9 +1,8 @@
 # Persian Unicode Py 
-Type persian in windows terminal or any application can't type arabic/persian
-
-
-
-
+.
+.
+.
+.
 ## WHY DO YOU NEED THIS
 
 in any program like Blender or Maya you can't type Persian name of your model's , with this library You Can Put Any Persian Sentence in ANY PROGRAM SUPPORT utf8
