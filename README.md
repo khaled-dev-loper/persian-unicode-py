@@ -1,16 +1,19 @@
 # Persian Unicode Py 
 .
+
 .
+
 .
+
 .
-## WHY DO YOU NEED THIS
+## WHO NEED THIS?
 
-in any program like Blender or Maya you can't type Persian name of your model's , with this library You Can Put Any Persian Sentence in ANY PROGRAM SUPPORT utf8
+in any program like Blender or Maya you can't type **Persian/Arabic** , with this library You Can Put Any **Persian/Arabic** Sentence in ANY PROGRAM SUPPORT utf8
 
 
-This library only solves the problem of reversing the letters, if in your program when you write Farsi, it shows a square for each letter, or it doesn't show anything at all, you should use Farsi font.
+This library only solves the problem of reversing the letters, if in your program when you write **Persian/Arabic** , it shows a square for each letter, or it doesn't show anything at all, you should use **Persian/Arabic** font.
 
-Use this if Farsi is not displayed correctly (for example, it is the other way around, or it is an illusion).
+Use this if **Persian/Arabic** is not displayed correctly (for example, it is the other way around, or it is an illusion).
 
 
 ## Example Code :
@@ -24,3 +27,6 @@ Use this if Farsi is not displayed correctly (for example, it is the other way a
 </pre>
 
 **Important**: Use fonts that support persian/arabic letters in your Terminal/Application.
+
+
+#The Persian Gulf forever
