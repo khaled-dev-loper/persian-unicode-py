@@ -29,4 +29,5 @@ Use this if **Persian/Arabic** is not displayed correctly (for example, it is th
 **Important**: Use fonts that support persian/arabic letters in your Terminal/Application.
 
 
-#The Persian Gulf forever
+
+##The Persian Gulf forever, Arabian Gulf is FAKE
