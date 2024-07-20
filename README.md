@@ -17,7 +17,7 @@ in any program like Blender or Maya you can't type Persian name of your model's 
   print(pu.convert("سلام خوبی ؟ "))                                       # Common Use 
   print(pu.convert("12334", arabic_number = True))                      # replace EN number with Arabic Number
   print(pu.convert("سلام خوبی Hello World ؟ ", strip_line = True))        # Use strip() in every line
-  print(pu.convert("سلام خوبی Hello World ؟ ", skip_other_char = True))   # skip char exclude persian/arabic, "skip_other_char" skip EN char too
+  print(pu.convert("سلام خوبی Hello World ؟ ", skip_other_char = True))   # skip char exclude persian/arabic, "skip_other_char" skip EN letters too
 </pre>
 
-**Important**: Use fonts that support persian/arabic character in your Terminal/Application.
+**Important**: Use fonts that support persian/arabic letters in your Terminal/Application.
