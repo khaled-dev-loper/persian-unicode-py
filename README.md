@@ -1,2 +1,10 @@
 # persian-unicode-py
-Type Persian in Windows Terminal
+Type persian in windows terminal or any application can't type arabic/persian
+
+### Example Code :
+<pre>
+  pu = PersianUnicode()
+  print(pu.convert("سلام خوبی ؟ "))
+</pre>
+
+Important: Your Terminal/Application must have persian font to use
