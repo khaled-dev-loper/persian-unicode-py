@@ -20,4 +20,4 @@ in any program like Blender or Maya you can't type Persian name of your model's 
   print(pu.convert("سلام خوبی Hello World ؟ ", skip_other_char = True))   # skip char exclude persian/arabic, "skip_other_char" skip EN char too
 </pre>
 
-**Important**: use font support persian/arabic character in your Terminal/Application.
+**Important**: Use fonts that support persian/arabic character in your Terminal/Application.
