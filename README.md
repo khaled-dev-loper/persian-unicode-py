@@ -30,4 +30,4 @@ Use this if **Persian/Arabic** is not displayed correctly (for example, it is th
 
 
 
-##The Persian Gulf forever, Arabian Gulf is FAKE
+
